@@ -1,2 +1,1 @@
-# EDA-Copy1
 EDA means Explorative Data Analysis. Explorative Data Analysis is a process where one learns about the data, forms insights and identifies important columns (features) that can be user to tell a story or later formulate a ML problem. EDA is unavoidable and one of the major step to fine - tune the given data set or data sets in a different form of analysis to understand the insights of the key characteristics of various  entities of the data set like column(s) , row(s) by applying Pandas , NumPy , Statistical Methods and Data Visualization packages.
